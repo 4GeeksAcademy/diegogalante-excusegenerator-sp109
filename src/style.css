@@ -3,3 +3,8 @@
 body{
     background: white;
 }
+.hover:hover{
+    background-color: #198754;
+    border-color: #198754;
+    color: white;
+}
